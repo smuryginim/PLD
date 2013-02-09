@@ -1,4 +1,4 @@
 PLD
 ===
 
-some basic programs for PLD
+Some interfaces and decoders and encoders
